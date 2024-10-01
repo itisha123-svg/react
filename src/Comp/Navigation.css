@@ -1,0 +1,19 @@
+*{
+   
+    margin: 0px;
+    padding: 0px;
+}
+.navbar-brand{
+    color: rgb(245, 244, 244);
+    font-family: Katibeh;
+    font-size: 30px;
+}
+.nav-link{
+    transition: 0.2s;
+    font-weight: 520;
+    font-size: 24px;
+    font-family: Katibeh;
+}
+.nav-link:hover {
+ text-decoration: underline 2px solid;
+}
